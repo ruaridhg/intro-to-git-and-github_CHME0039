@@ -9,11 +9,11 @@ Ruaridh Gollifer
 to `git` and GitHub</span>  
 <span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 <span style="padding-bottom: 0.5rem;"><br> </span>  
-[](http://mxochicale.github.io/) Miguel Xochicale, PhD  
+[](http://ruaridhg.github.io/) Ruaridh Gollifer, PhD  
 <span class="dim-text" style="font-size:0.8em;">Zakaria Senousy,
 PhD</span>  
 <span style="font-size:0.8em;"><span style="border-bottom: 0.5px solid #00ccff;">[
-`mxochicale/`](https://github.com/mxochicale/)</span>`{`<span style="border-bottom: 0.5px solid #00ccff;">[`intro-to-git-and-github`](https://github.com/mxochicale/intro-to-git-and-github)</span>`}`</span>
+`ruaridhg/`](https://github.com/ruaridhg/)</span>`{`<span style="border-bottom: 0.5px solid #00ccff;">[`intro-to-git-and-github`](https://github.com/ruaridhg/intro-to-git-and-github)</span>`}`</span>
 
 </div>
 
