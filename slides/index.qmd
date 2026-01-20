@@ -17,7 +17,7 @@ format:
       #- css/callouts-html.css
     #footer: <https://quarto.org>
   gfm:
-    author: Miguel Xochicale
+    author: Ruaridh Gollifer
 ---
 
 # {.title-slide .centeredslide background-iframe="https://saforem2.github.io/grid-worms-animation/" loading="lazy"}
@@ -26,7 +26,7 @@ format:
 <span style="color:#939393; font-size:1.5em; font-weight: bold;">Introduction to `git` and GitHub</span>  
 <span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 [<br>&nbsp;]{style="padding-bottom: 0.5rem;"}  
-[{{< fa solid home >}}](http://mxochicale.github.io/) Miguel Xochicale, PhD     
+[{{< fa solid home >}}](http://ruaridhg.github.io/) Ruaridh Gollifer, PhD     
 [Zakaria Senousy, PhD]{.dim-text style="font-size:0.8em;"}  
 [[[{{< fa brands github >}} `mxochicale/`](https://github.com/mxochicale/)]{style="border-bottom: 0.5px solid #00ccff;"}`{`[[`intro-to-git-and-github`](https://github.com/mxochicale/intro-to-git-and-github)]{style="border-bottom: 0.5px solid #00ccff;"}`}`]{style="font-size:0.8em;"}
 :::
