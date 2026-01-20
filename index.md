@@ -1,5 +1,5 @@
 # Introduction to git and github
-Miguel Xochicale
+Ruaridh Gollifer
 
 # 
 
